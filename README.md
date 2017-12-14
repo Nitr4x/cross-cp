@@ -1,3 +1,3 @@
 # Cross-cp
 
-Cross-cp ams to provide a user-friendly way to cross compile exploits for further usage
+Cross-cp aims to provide a user-friendly way to cross compile exploits for further usage
